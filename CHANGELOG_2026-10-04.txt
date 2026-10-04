@@ -1,0 +1,58 @@
+RESPIRALAB — CHANGELOG 2026-10-04
+
+1. APERSEPSI SINEMATIK
+- Mengganti apersepsi tabel statis dengan dialog 8 adegan.
+- Tokoh: Oxy-bot, Vero, Reska.
+- Struktur: Fenomena → Hubungkan → Selidiki → Hipotesis awal.
+- Menambahkan progress adegan, tombol Panduan, fullscreen, tombol Kembali/Lanjut, serta kontrol keyboard Enter/Spasi/←/→.
+- Gaya layar dibuat menyerupai contoh cinematic-dialog yang diberikan pengguna, tetap mengikuti identitas visual RespiraLab.
+
+2. SIMULASI PERTUKARAN GAS
+- Memperjelas ruang alveolus, membran respirasi, kapiler, dan arah aliran darah.
+- O2 bergerak dari alveolus ke kapiler dan secara visual menempel pada hemoglobin di dalam eritrosit.
+- Eritrosit berubah menuju warna yang lebih teroksigenasi dan diberi label Hb/HbO2.
+- CO2 bergerak dari darah ke alveolus; catatan ilmiah menjelaskan bahwa sebagian besar CO2 diangkut sebagai HCO3- sebelum dilepas kembali sebagai CO2 di paru.
+- Menambahkan kondisi Istirahat/Aktivitas, model membran normal/menebal, dan kecepatan animasi.
+- Menambahkan catatan bahwa simulasi bersifat ilustratif, bukan alat diagnosis atau skala klinis.
+
+3. PENDALAMAN MATERI
+- Menambahkan tombol "Pendalaman Materi Lab 1–6".
+- Lab 1: pembersihan mukosilier, tulang rawan, zona konduksi/respirasi.
+- Lab 2: gradien tekanan parsial, hemoglobin, bikarbonat, prinsip Fick kualitatif.
+- Lab 3: hubungan tekanan–volume, pleura, ekspirasi paksa.
+- Lab 4: volume tidal/cadangan, kapasitas vital, batas spirometri sederhana.
+- Lab 5: CO2/pH, respons aktivitas, variasi normal frekuensi napas.
+- Lab 6: risiko vs sebab, asma, dampak asap pada pertahanan saluran napas.
+
+4. ASET BARU
+- assets/ikon_pendalaman.svg
+- assets/ill_hemoglobin_o2.svg
+
+5. PERBAIKAN LAYOUT
+- Section tanpa visual pendamping sekarang memakai lebar penuh.
+- Apersepsi dipastikan muat satu viewport desktop seperti contoh screenshot.
+
+
+[Patch tampilan & aset HD — 2026-10-04]
+- Karakter Vero dan Reska pada apersepsi sinematik diperbesar agar tampil dominan/setengah badan.
+- Aset “Faktor yang mempengaruhi pernapasan” diganti versi HD.
+- Aset “Gangguan pernapasan” (kelas berdebu) diganti versi HD.
+- Aset kelas sehat/ventilasi baik diganti versi HD untuk konsistensi visual.
+- Patch diterapkan ke versi folder dan single-file HTML.
+
+
+[Patch tambahan 2026-10-04 — Tombol Keluar]
+- Menambahkan tombol Keluar pada Menu Utama/Dashboard.
+- Tombol menampilkan konfirmasi agar tidak tertekan tanpa sengaja.
+- Setelah dikonfirmasi, aplikasi kembali ke cover awal dan mengosongkan identitas serta progres sesi, sehingga pengguna berikutnya mengisi Nama dan Kelas dari awal.
+
+
+[Patch zoom gambar materi]
+- Gambar pada kartu materi, visual eksternal/lokal, simulasi pendukung, dan visual Pendalaman Materi kini dapat diklik untuk membuka pop-up zoom.
+- Pop-up dapat ditutup dengan tombol ×, klik area gelap, atau tombol Esc.
+- Dukungan keyboard Enter/Spasi ditambahkan pada gambar yang dapat diperbesar.
+
+[Patch tambahan anatomi internal]
+- Mengganti visual eksternal BBGTK pada materi jalur udara dengan aset internal HD.
+- Menambahkan label bronkiolus secara eksplisit dan memperjelas bronkus, alveolus, paru-paru, serta diafragma.
+- Visual anatomi kini tersimpan lokal sehingga tidak bergantung pada koneksi internet.

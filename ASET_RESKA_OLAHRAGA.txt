@@ -1,0 +1,9 @@
+Aset tambahan mini game RespiraLab
+File akhir: assets/char_reska_olahraga.webp
+Sumber referensi: assets/char_reska_data.webp dari proyek pengguna.
+Metode: pembuatan/edit gambar melalui ImageGen built-in, lalu dikonversi ke WebP dengan alpha untuk penggunaan di proyek.
+
+Prompt:
+Use case: scientific-educational character asset, precise-object-edit. Edit the attached Reska character for an Indonesian junior high school educational mini game. Preserve her face, age, glasses, dark ponytail, modest white and purple collared shirt, clipboard, pen, standing pose, full body framing, anime illustration style and sneakers exactly as in the reference. Change only her trousers to unmistakable full-length purple athletic jogger/track pants with elastic ankle cuffs and a narrow orange and white side stripe, suitable for school sports. Keep her school-age appearance modest and friendly. Transparent background, clean alpha edges, no background, no extra characters, no text, no watermark. Output one full body character, entire head and both feet visible.
+
+Ilustrasi tiga kasus kelas dan tiga lencana dibuat sebagai aset SVG internal agar titik interaksi serta status umpan balik dapat diatur dengan tepat.

@@ -1,0 +1,79 @@
+MISI RESPIRALAB — MINI GAME IPA KELAS VIII
+Pembaruan: 5 Oktober 2026
+
+Buka Menu Utama > Mini Game: Misi RespiraLab.
+Tersedia 9 misi. Semua dapat dipilih tanpa mengunci urutan.
+Perkiraan pengerjaan sekitar 2–3 menit per misi, termasuk membaca dialog.
+
+MISTERI ALVEOLUS — LENCANA AHLI ALVEOLUS
+1. Peta yang kehilangan label
+   Pilih label, lalu klik kotak pada potongan alveolus–kapiler.
+   Kenali ruang alveolus, membran respirasi, kapiler, dan eritrosit.
+2. Dua gas, dua arah
+   Tentukan arah O2 dan CO2. Setelah benar, animasi memperlihatkan arah difusi keduanya.
+3. Rancang area pertukaran
+   Atur ketebalan dinding, luas area, dan jarak kapiler. Skema serta keterangan berubah mengikuti rancangan.
+
+DETEKTIF KELAS SEHAT — LENCANA DETEKTIF UDARA
+4. Pagi yang berdebu
+   Tangani lantai, penghapus, dan ventilasi. Dalam kasus ini udara luar bersih.
+5. Asap di dekat jendela
+   Tangani mesin kendaraan yang menyala, area menunggu, dan sumber udara ventilasi.
+6. Kelas setelah hujan
+   Laporkan dinding lembap, bebaskan ventilasi dengan bantuan petugas, dan tangani sumber bau.
+   Tidak meminta siswa membersihkan bercak sendiri, mengangkat lemari berat, atau mencampur bahan pembersih.
+
+EKSPEDISI JALUR UDARA — LENCANA TEKNISI PARU
+7. Dari hidung menuju alveolus
+   Klik kartu organ untuk menyusun jalur. Gunakan naik, turun, dan hapus untuk memperbaiki urutan.
+8. Peta ekspedisi tertukar
+   Klik dua kartu untuk menukar posisi. Perbaiki pasangan laring–trakea dan bronkiolus–alveolus.
+9. Kenali pos penjaga
+   Pasangkan empat fungsi dengan organ. Diafragma menjadi kartu tambahan untuk membedakan otot dari saluran udara.
+
+DIALOG CINEMATIC
+- Setiap misi diawali tiga adegan: Vero, Reska, kemudian Oxy-bot.
+- Reska pada misi menggunakan aset baru bercelana olahraga.
+- Kembali/Lanjut dialog tersedia; Mulai misi muncul setelah adegan ketiga.
+- Saat fokus berada di halaman dialog, panah kiri/kanan dapat berpindah adegan. Enter/Spasi dapat melanjutkan. Tombol tetap bisa dipakai dengan keyboard.
+
+UMPAN BALIK DAN KESEMPATAN MENCOBA
+- Papan yang belum lengkap diminta dilengkapi terlebih dahulu.
+- Keputusan keliru ditandai dan dijelaskan; siswa bisa mencoba kembali.
+- Tombol Buka petunjuk menampilkan bantuan Oxy-bot.
+- Pada kasus kelas, tindakan yang benar memberi tanda centang dan memperbarui ilustrasi.
+- Dinding lembap yang dilaporkan tetap terlihat; pelaporan tidak dianggap langsung menghilangkan masalah.
+- Setiap keberhasilan dijelaskan kembali sebagai bukti pemahaman.
+- Tidak ada batas nyawa atau hukuman akibat menggunakan petunjuk.
+
+TIMER, PROGRES, DAN LENCANA
+- Timer tampilan tidak aktif secara default. Bisa diaktifkan di hub atau saat bermain.
+- Waktu acuan 3 menit tidak menghentikan permainan; siswa tetap dapat melanjutkan.
+- Waktu aktif dijeda saat tab tidak terlihat atau dialog pengaturan terbuka.
+- Menyelesaikan ketiga misi satu kategori memberi lencana kategori tersebut.
+- Progres misi selesai disimpan lokal di browser. Mengulang misi tidak menggandakan lencana.
+- Misi yang belum selesai dimulai kembali dari dialog bila dipilih ulang.
+- Game latihan tidak mengubah nilai evaluasi.
+- Latihan Data Challenge yang sebelumnya masih dapat dibuka dari hub game.
+
+ASET DAN KONEKSI
+- Karakter baru: assets/char_reska_olahraga.webp.
+- Ilustrasi kasus: assets/game_kelas_dust.svg, game_kelas_exhaust.svg, game_kelas_damp.svg.
+- Lencana: assets/badge_ahli_alveolus.svg, badge_detektif_udara.svg, badge_teknisi_paru.svg.
+- Diagram interaktif alveolus dirender oleh SVG internal dalam halaman.
+- Semua aset baru dan musik latar disematkan dalam HTML tunggal.
+- Kontrol menggunakan klik/tap dan keyboard; drag-and-drop tidak diwajibkan.
+- Pada layar kecil, diagram bisa digeser mendatar agar label tidak terlalu kecil.
+
+RUJUKAN MATERI
+NHLBI, NIH — How the Lungs Work: The Respiratory System
+https://www.nhlbi.nih.gov/health/lungs/respiratory-system
+NHLBI, NIH — What Breathing Does for the Body
+https://www.nhlbi.nih.gov/health/lungs/breathing-benefits
+US EPA — Reference Guide for Indoor Air Quality in Schools
+https://www.epa.gov/iaq-schools/reference-guide-indoor-air-quality-schools
+US EPA — Recommended Action Checklists for Improving Indoor Air Quality in Schools
+https://www.epa.gov/iaq-schools/recommended-action-checklists-improving-indoor-air-quality-schools
+
+BATAS MODEL
+Diagram dan kasus adalah penyederhanaan untuk pembelajaran, bukan ukuran anatomi, perhitungan laju difusi, pengukuran udara, atau diagnosis. Keputusan pada kasus kelas dilakukan bersama guru/petugas dan disesuaikan dengan kondisi yang disebut dalam kasus.

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+<title id="t">Ikon pendalaman materi</title><desc id="d">Buku terbuka dengan kaca pembesar dan molekul oksigen</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6D4CCF"/><stop offset="1" stop-color="#3F267F"/></linearGradient><linearGradient id="o" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFD79D"/><stop offset="1" stop-color="#F59E42"/></linearGradient></defs>
+<rect x="18" y="18" width="220" height="220" rx="52" fill="#F3EFFF" stroke="#D8CDF6" stroke-width="8"/>
+<path d="M51 77c28-12 52-10 75 7v105c-21-16-45-19-75-7z" fill="#fff" stroke="#6D4CCF" stroke-width="8" stroke-linejoin="round"/>
+<path d="M205 77c-28-12-52-10-75 7v105c21-16 45-19 75-7z" fill="#fff" stroke="#6D4CCF" stroke-width="8" stroke-linejoin="round"/>
+<path d="M130 84v105" stroke="#CFC3F2" stroke-width="7"/>
+<circle cx="167" cy="107" r="33" fill="none" stroke="url(#g)" stroke-width="12"/>
+<path d="M190 131l31 31" stroke="url(#g)" stroke-width="15" stroke-linecap="round"/>
+<circle cx="83" cy="112" r="14" fill="url(#o)"/><circle cx="102" cy="112" r="14" fill="url(#o)"/><text x="75" y="119" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4A2E07">O</text><text x="95" y="119" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#4A2E07">O</text>
+<path d="M68 149h42M68 164h36" stroke="#BFB1EA" stroke-width="7" stroke-linecap="round"/>
+</svg>

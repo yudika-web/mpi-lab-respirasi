@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="gasSvg" viewBox="0 0 760 500" role="img" aria-labelledby="gasTitle gasDesc"><title id="gasTitle">Pertukaran gas pada potongan alveolus dan kapiler</title><desc id="gasDesc">Diagram skematis untuk pembelajaran IPA kelas VIII. Label dan panah menunjukkan bagian serta arah proses.</desc><defs><marker id="gasArrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#176f84"/></marker><marker id="gasOrange" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#aa5409"/></marker></defs><rect width="760" height="500" rx="18" fill="#fff"/><g font-family="system-ui, sans-serif" font-size="19" fill="#25354b">
+<path d="M120 252 V180 Q120 82 265 82 H306 V32 H356 V82 H455 Q610 82 610 180 V252Z" fill="#eaf6fa" stroke="#5996a8" stroke-width="4"/>
+<path d="M307 34 H355" stroke="#fff" stroke-width="7"/>
+<text x="388" y="39">Ke bronkiolus</text><path d="M378 36 H360" stroke="#52677a" stroke-width="2"/>
+<text x="366" y="122" text-anchor="middle" font-size="23" font-weight="700">Ruang alveolus</text>
+<text x="365" y="155" text-anchor="middle">Udara di dalam kantung udara</text>
+<rect x="120" y="252" width="490" height="10" fill="#d0e6ec" stroke="#5996a8" stroke-width="2"/>
+<rect id="gasBarrier" x="120" y="262" width="490" height="10" fill="#fff2cb" stroke="#ad8124" stroke-width="1.5"/>
+<path d="M120 272 H635 Q667 272 667 313 V352 Q667 389 635 389 H95 Q72 389 72 352 V310 Q72 272 95 272Z" fill="#fbe8ee" stroke="#b15b71" stroke-width="4"/>
+<path d="M618 260 H648 V234 H732" fill="none" stroke="#52677a" stroke-width="2"/><text x="731" y="183" text-anchor="end">Membran</text><text x="731" y="205" text-anchor="end">respirasi</text><text x="731" y="227" text-anchor="end">tipis</text>
+<path d="M294 183 V327" stroke="#176f84" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#gasArrow)"/>
+<path d="M476 320 V181" stroke="#aa5409" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#gasOrange)"/>
+<text x="275" y="202" text-anchor="end" fill="#176f84" font-weight="700">O₂ ↓</text><text x="495" y="201" fill="#aa5409" font-weight="700">↑ CO₂</text>
+<g id="gasCells"></g><g id="gasParticles"></g>
+<text x="365" y="425" text-anchor="middle" font-weight="700">Kapiler darah · eritrosit membawa hemoglobin (Hb)</text>
+<path d="M119 451 H630" stroke="#176f84" stroke-width="3" marker-end="url(#gasArrow)"/>
+<text x="99" y="483" font-size="17">Dari arteri pulmonalis</text><text x="661" y="483" text-anchor="end" font-size="17">Menuju vena pulmonalis</text>
+</g></svg>

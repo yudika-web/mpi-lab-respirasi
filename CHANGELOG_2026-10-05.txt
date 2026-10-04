@@ -1,0 +1,34 @@
+Pembaruan 2026-10-05
+- Mengganti simulasi alveolus dengan potongan alveolus–membran–kapiler yang saling berdekatan.
+- Mengoreksi lintasan partikel agar benar-benar melintasi membran respirasi.
+- Membatasi eritrosit dan simbol O2 terikat Hb di dalam kapiler.
+- Menambahkan simulasi inspirasi/ekspirasi dengan diafragma, tulang rusuk, paru dan arah udara.
+- Menambahkan simulasi bell jar berkaret bawah bergerak, balon dan kontrol tarikan manual.
+- Semua simulasi: Play/Jeda, Ulangi, pengatur kecepatan, Perbesar.
+- Menambahkan panel penjelasan tahap proses, volume, tekanan dan arah aliran.
+- Menghindari penyamaan tekanan ruang botol dengan tekanan udara di balon.
+- Menambahkan keadaan seimbang di akhir fase napas dan saat karet ditahan.
+- Menghentikan animasi saat navigasi atau tab tidak terlihat.
+- Merapikan susunan panel dan keterbacaan siswa SMP; rincian ilmiah dapat dibuka sesuai kebutuhan.
+- Menghasilkan tiga aset SVG internal yang tajam saat diperbesar.
+- Menyamakan kode index.html dan versi single-file HTML.
+- Mempertahankan gambar anatomi internal dan fitur zoom gambar materi.
+
+Pembaruan identitas dan audio
+- Menghapus Reska dari layar input nama dan kelas; hanya Vero ditampilkan.
+- Mengurangi tinggi dan jarak kartu identitas agar muat pada layar umum.
+- Menambahkan form dengan label yang terhubung ke input dan dukungan Enter.
+- Menambahkan MP3 latar internal yang diputar berulang tanpa restart antarhalaman.
+- Menambahkan panel pengaturan musik dan SFX secara terpisah, beserta slider volume dan tombol coba.
+- Menyimpan preferensi suara dan mempertahankannya saat keluar dari sesi belajar.
+- Menangani pembatasan autoplay, jeda tab, dan pergantian status musik yang cepat.
+
+Pembaruan mini game
+- Menambahkan hub 3 kategori dengan 9 misi interaktif dan bebas dipilih.
+- Menambahkan 3 adegan dialog cinematic untuk setiap misi.
+- Menambahkan penempatan label, rancangan arah gas, pengatur area pertukaran, kasus hotspot, susun/tukar urutan, dan pasang fungsi.
+- Menambahkan umpan balik salah/benar, petunjuk, ulang papan, dan kesempatan mencoba tanpa batas nyawa.
+- Menambahkan 3 lencana berdasarkan ketuntasan kategori; progres disimpan terpisah dari nilai evaluasi.
+- Menambahkan timer opsional yang tidak menggagalkan misi.
+- Menambahkan Reska bercelana olahraga, 3 SVG kasus kelas, dan 3 SVG lencana.
+- Mempertahankan Data Challenge, simulasi ilmiah, layar identitas Vero, musik dan pengaturan SFX.

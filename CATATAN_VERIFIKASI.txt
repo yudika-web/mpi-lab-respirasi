@@ -1,0 +1,30 @@
+VERIFIKASI PEMBARUAN 2026-10-05
+
+- Startup aplikasi dan enam lab beserta checkpoint dapat dirender.
+- Play/Jeda, kontrol fase inspirasi/ekspirasi, serta tekanan akhir fase diperiksa.
+- Eritrosit berada dalam kapiler; partikel gas melintasi membran.
+- Play bell jar, penggeser manual, keadaan ditahan dan Ulangi diperiksa.
+- Animasi berhenti saat navigasi; kontrol Perbesar dan zoom materi diperiksa.
+- Versi HTML tunggal memuat aset internal.
+- Diagram SVG dirender ke gambar dan diperiksa secara visual.
+
+Metode: pemeriksaan DOM/JavaScript dan render SVG lokal.
+Pengujian tata letak dalam browser nyata, termasuk viewport ponsel, belum dapat dijalankan di lingkungan pengerjaan. CSS responsif telah ditambahkan; uji pada perangkat kelas sebelum digunakan bersama siswa.
+
+VERIFIKASI IDENTITAS DAN AUDIO
+- Form identitas hanya memiliki satu gambar karakter: Vero. Submit nama/kelas tetap menuju panduan.
+- Kontrol musik loop, mute, volume, transisi halaman, jeda tab dan retry autoplay diperiksa dengan API audio simulasi.
+- Kontrol SFX mute/volume diperiksa terpisah dari musik.
+- Penyimpanan preferensi, kompatibilitas preferensi sebelumnya, serta keyboard dialog diperiksa.
+- MP3 valid: stereo, 48 kHz, durasi sekitar 60 detik; data MP3 yang disematkan identik dengan lampiran.
+- Simulasi ilmiah tetap tersedia.
+- Uji dengar dan ukuran tampilan dalam browser nyata belum dapat dilakukan di lingkungan pengerjaan.
+
+VERIFIKASI MINI GAME
+- Kesembilan misi diperiksa melalui interaksi DOM/JavaScript, termasuk dialog awal, jawaban keliru, petunjuk, perbaikan, dan penyelesaian.
+- Kasus kelas diperiksa untuk perubahan visual, titik tetap terbuka setelah pilihan keliru, dan pencegahan penyelesaian ganda.
+- Ketiga lencana, pemuatan ulang progres, replay, dan pemisahan nilai evaluasi diperiksa.
+- Timer >3 menit tetap mengizinkan bermain; jeda tab/dialog serta penghentian timer saat navigasi diperiksa.
+- Aset SVG dirender dan diperiksa; data SVG internal valid.
+- HTML tunggal menyertakan karakter Reska olahraga, kasus, lencana, dan MP3.
+- Uji tata letak pada browser nyata dan perangkat kelas belum tersedia di lingkungan pengerjaan.
